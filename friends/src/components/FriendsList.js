@@ -137,11 +137,11 @@ const Form = styled.form`
     font-size: 1.4rem;
 
     h4 {
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
 
     label {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     input {
@@ -161,8 +161,8 @@ const Button = styled.button `
 
 const Box = styled.div`
     margin: 2rem;
-    width: 15vw;
-    height: 15vw;
+    width: 25vw;
+    height: 35vh;
     border: .2rem solid black;
     border-radius: .5rem;
     background-color: white;
